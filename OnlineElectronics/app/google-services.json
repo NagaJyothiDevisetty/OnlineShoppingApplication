@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709374534290",
+    "firebase_url": "https://online-electronics-20185.firebaseio.com",
+    "project_id": "online-electronics-20185",
+    "storage_bucket": "online-electronics-20185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709374534290:android:e954fa06a8f20364defc4b",
+        "android_client_info": {
+          "package_name": "com.example.onlineelectronics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709374534290-rj8gnc4vshg79o6l15h39q722jpisqaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXy0cQN2CxX2gB11CRV3UgdpJAcXMWL8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709374534290-rj8gnc4vshg79o6l15h39q722jpisqaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

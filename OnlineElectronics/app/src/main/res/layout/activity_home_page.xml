@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomePage">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="149dp"
+        android:layout_height="167dp"
+        app:srcCompat="@drawable/asuslaptop"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="173dp"
+        android:layout_height="161dp"
+        app:srcCompat="@drawable/hplaptop"
+        tools:layout_editor_absoluteX="205dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="143dp"
+        android:layout_height="160dp"
+        app:srcCompat="@drawable/iphone11"
+        tools:layout_editor_absoluteX="37dp"
+        tools:layout_editor_absoluteY="202dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="145dp"
+        android:layout_height="152dp"
+        app:srcCompat="@drawable/iphone11pro"
+        tools:layout_editor_absoluteX="220dp"
+        tools:layout_editor_absoluteY="210dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="136dp"
+        android:layout_height="146dp"
+        app:srcCompat="@drawable/sonycamera"
+        tools:layout_editor_absoluteX="44dp"
+        tools:layout_editor_absoluteY="384dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="118dp"
+        android:layout_height="388dp"
+        app:srcCompat="@drawable/nikoncamera"
+        tools:layout_editor_absoluteX="205dp"
+        tools:layout_editor_absoluteY="362dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
